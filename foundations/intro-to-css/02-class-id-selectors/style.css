@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.odd-class{
+    background-color: rgb(242, 152, 140);
+    font-family:"Verdana","DejaVu Sans",sans-serif;
+}
+
+#element2{
+    color: hsl(239, 85%, 46%);
+    font-size: 36px;
+    font-family: "Geneva",sans-serif;
+}
+
+.element3{
+    font-size: 24px;
+}
+
+#element4{
+    background-color:#8ef980;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "system-ui",serif;
+}
